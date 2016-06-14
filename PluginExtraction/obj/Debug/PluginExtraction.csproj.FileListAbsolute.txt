@@ -1,0 +1,6 @@
+c:\users\pictor17\documents\visual studio 2015\Projects\PluginExtraction\PluginExtraction\bin\Debug\PluginExtraction.exe.config
+c:\users\pictor17\documents\visual studio 2015\Projects\PluginExtraction\PluginExtraction\bin\Debug\PluginExtraction.exe
+c:\users\pictor17\documents\visual studio 2015\Projects\PluginExtraction\PluginExtraction\bin\Debug\PluginExtraction.pdb
+c:\users\pictor17\documents\visual studio 2015\Projects\PluginExtraction\PluginExtraction\obj\Debug\PluginExtraction.csprojResolveAssemblyReference.cache
+c:\users\pictor17\documents\visual studio 2015\Projects\PluginExtraction\PluginExtraction\obj\Debug\PluginExtraction.exe
+c:\users\pictor17\documents\visual studio 2015\Projects\PluginExtraction\PluginExtraction\obj\Debug\PluginExtraction.pdb
